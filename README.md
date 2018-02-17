@@ -9,3 +9,5 @@
 * [Android Architecture: Part 4: Applying Clean Architecture on Android, Hands on (source code included)](http://five.agency/android-architecture-part-4-applying-clean-architecture-on-android-hands-on/) `#cleanarchitecture` `#android`
 > [Reedly RSS reading app to showcase Clean Architecture](https://github.com/fiveagency/Reedly)
 ---
+
+https://medium.com/@Viraj.Tank/art-of-subscribe-unsubscribe-in-rxjava-12c30d315777
